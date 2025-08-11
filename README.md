@@ -64,9 +64,6 @@ python predict.py
 | Recall      | 98%     |
 | F1-score    | 97%     |
 
-## 📸 Sample Output
-![Sample Prediction Screenshot](docs/sample_prediction.png)
-
 ## 📜 License
 This project is licensed under the **MIT License**.
 
